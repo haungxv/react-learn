@@ -15,10 +15,6 @@ class TodoShow extends React.Component {
             <div>{listShow}</div>
         )
     }
-
-    componentDidMount() {
-        console.log(0, this.props.listData);
-    }
 }
 
 export default TodoShow
