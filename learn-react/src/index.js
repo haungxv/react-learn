@@ -18,6 +18,7 @@ ReactDOM.render(
 );
 
 
+
 //简单计数器
 // import React, { Component } from 'react'
 // import PropTypes from 'prop-types'   //类型检查
